@@ -1,0 +1,31 @@
+img{
+	border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+}
+
+body{
+	background-image: url(C:/pau/imagenes/fondototoro.jfif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+div{
+	border: 4px double black;
+	text-align: center;
+	vertical-align:middle;	
+}
+
+table{
+	display: inline-block:	
+}
+
+#intro{
+	background-color:beige;
+	color:green;
+	border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+}
+
+#icono{
+	border-radius:200px;
+}
